@@ -11,3 +11,10 @@ https://github.com/user-attachments/assets/c605ff99-9920-4f1a-b8ba-cdece210d2be
 # Table of Contents
 
 Coming soon...
+
+
+---
+
+## Interactive guides & indexes
+
+- [Vexilo · A field guide to Claude Code](https://vexilo.app/?lang=en) — 31 agents · 99 commands · 123 skills · 13 rules, organized around the 5-step workflow (Research → Plan → Test-first → Security → Commit). One-click **Teach Claude this handbook** feeds the whole guide into a local Claude session in 30 seconds.
